@@ -6,5 +6,9 @@ public class Hello_world {
 	System.out.println("Hello There!");
 
 	}
+	
+	public void m1() {
+		System.out.println("branch demo");
+	}
 
 }
